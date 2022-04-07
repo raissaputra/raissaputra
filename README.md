@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi.. 👋 I'm Rais
 
-<!--
-**raissaputra/raissaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Saya seorang **junior Front-End Web Developer**
+- Saya menikmati JavaScript dan menjadikannya bahasa utama dalam membuat proyek.
+- 🌱 Saat ini saya sedang belajar tentang teknologi **mobile programming**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://github.com/raissaputra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raissaputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raissaputra&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
