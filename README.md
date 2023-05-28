@@ -2,7 +2,7 @@
 
 - Saya seorang **junior Front-End Web Developer**
 - Saya menikmati JavaScript dan menjadikannya bahasa utama dalam membuat proyek.
-- 🌱 Saat ini saya sedang belajar tentang teknologi **mobile programming**
+- 🌱 Saat ini saya sedang fokus belajar tentang teknologi **Web Development**
 
 <p align="left">
 <a href="https://github.com/raissaputra">
